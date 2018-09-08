@@ -6,3 +6,6 @@ create a branch is safe AND quick!
 
 test bug commit!
 git is  good
+
+
+test bug
