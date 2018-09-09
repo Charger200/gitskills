@@ -10,3 +10,4 @@ git is  good
 
 test bug
 test origin change2
+test git origin!
